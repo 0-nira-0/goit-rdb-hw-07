@@ -1,0 +1,7 @@
+# Дані завантажуються кодом з офіційного джерела
+*.parquet
+*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
